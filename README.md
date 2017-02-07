@@ -1,2 +1,2 @@
 # set-game
-calculates all cards and all possible set, embarrassingly brute force
+calculates all cards and all possible sets, embarrassingly brute force
